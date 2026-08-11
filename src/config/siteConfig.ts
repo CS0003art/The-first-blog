@@ -3,7 +3,7 @@ import type { SiteConfig } from "@/types/siteConfig";
 // 定义站点语言
 // 语言代码，例如：'zh_CN', 'zh_TW', 'en', 'ja', 'ru', 'ko'。
 const SITE_LANG = "zh_CN";
-const SITE_URL = process.env.SITE_URL ?? "http://localhost:4321";
+const SITE_URL = process.env.SITE_URL ?? "https://touchwind.dpdns.org";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
