@@ -35,5 +35,21 @@
   "src:content/posts/images/1.avif": "b5b0b3bcb6bbe0e0df",
   "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5",
   "src:assets/images/blog-avatar.png": "e0e5e1f0efe9e2e5e3",
-  "public:assets/images/blog-avatar.png": "e0e5e1f0efe9e2e5e3"
+  "public:assets/images/blog-avatar.png": "e0e5e1f0efe9e2e5e3",
+  "public:images/posts/za-bank/cover.png": "dbfcf2d4faefd5f6ee",
+  "public:images/posts/hongkong-travel/victoria-harbour.jpg": "989f9b8d918c444c49",
+  "public:images/posts/hongkong-travel/tian-tan-buddha.jpg": "6187956e949e14675f",
+  "public:images/posts/hongkong-travel/temple-street.jpg": "9277729f8782424c5f",
+  "public:images/posts/hongkong-travel/tai-o.jpg": "d4e1e6d7e2e656575d",
+  "public:images/posts/hongkong-travel/symphony-of-lights.jpg": "68554b483126785d49",
+  "public:images/posts/hongkong-travel/peak.jpg": "4668746199ac528085",
+  "public:images/posts/hongkong-travel/ngong-ping-cable-car.jpg": "827b75ceccca99aaa8",
+  "public:images/posts/hongkong-travel/mong-kok.jpg": "c9cac7d2d3d2a8b5b5",
+  "public:images/posts/hongkong-travel/mid-levels-escalator.jpg": "794e759f709ea7757d",
+  "public:images/posts/hongkong-travel/cover.jpg": "6d729b7f7ba4332627",
+  "public:images/posts/hongkong-travel/chi-lin-nunnery.jpg": "97877e8e7b7146473e",
+  "public:images/posts/hsbc-one/cover.png": "6e7377878285898f90",
+  "public:images/posts/hengsheng-bank-account/cover.png": "f4e0e0f2f3f3eff1f0",
+  "public:images/posts/hong-kong-bank-funding/cover.png": "e7b84ce9bd54ecc36c",
+  "public:images/posts/bochk-account-guide/cover.png": "eadcddebededeef1f0"
 }
